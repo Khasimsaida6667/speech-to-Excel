@@ -1,0 +1,28 @@
+/* TranscriptionDisplay.css */
+.transcription-display-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .transcription-display-title {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .transcription-display-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .transcription-display-item {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
